@@ -1,0 +1,33 @@
+.jumbotron{
+  background-image: url(../images/top.jpg);
+  background-size: 100%;
+
+  padding: 20px;
+  background-repeat: no-repeat;
+  color: white;
+
+}
+.border
+{
+  padding: 10px;
+  border:1px solid  #19456b;
+}
+.gst{
+  border:none;
+  background-color: #19456b;
+  color: white;
+}
+.mx-5
+{
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+.btnc
+{
+  background: none;
+  border-radius: 5px;
+
+}
+.row{
+  padding: 10px;
+}

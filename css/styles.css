@@ -1,0 +1,95 @@
+.s2
+{
+  /* background-image: url('https://www.countryandtownhouse.co.uk/wp-content/uploads/2020/01/ja-ma-gOUx23DNks-unsplash.jpg '); */
+  background-image: url(../images/fruit.jpg);
+  width: 40%;
+  background-size: 480px 450px;
+}
+.s1
+{
+  width:25%;border-radius: 15px;
+}
+a{
+  text-decoration: none;
+}
+.fp
+{
+  text-align: right;
+}
+.s11
+{
+
+}
+.row
+{
+  padding:10px;
+}
+.border
+{
+  /* width: 50%; */
+  border-radius: 15px;
+}
+.form-control
+{
+  padding: .275rem .25rem;
+  font-size: 12px;
+}
+.p-3
+{
+  padding: 2rem!important;
+}
+p{
+  font-size: 10px;
+}
+.s21
+{
+  width:40%;
+}
+.rounded1
+{
+/* background: rgb(0, 151, 19); */
+/* opacity: 0.5; */
+/* background: rgba(0, 151, 19, 0.1); */
+}
+.form-check-label
+{
+  font-size: 12px;
+}
+.form-text
+{
+  font-size: 10px;
+}
+.btn
+{
+  line-height: 1rem;
+
+}
+.wh
+{
+  color: white;
+
+}
+.btn-outline-Light{
+  background-color: white;
+  border:10px;
+}
+.su{
+  background: none;
+  border:2px solid white;
+  color: white;
+}
+.su:hover
+{
+  color: black;
+  background-color: white;
+}
+.m1
+{
+  padding: 40px;
+  padding-bottom:10px;
+}
+/* .ar
+{
+
+
+} */
